@@ -1,7 +1,7 @@
 <h1>Qucik description</h1>
 
-Implementing deep learning to extract information from an ENSIAS student card.
-We'll start by deep learning basics, then we will use ORB, Image preprocessing and Keras to achieve our goal.
+Implementing deep learning to extract informations from an ENSIAS student card.
+Starting by deep learning basics, then using ORB ML algorithm for Image Preprocessing purposes, and finaly passing through Keras complicated DL algorithms to achieve our goal.
 
 <h1>Libraries</h1>
 <ul>
